@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+.main-header {
+    float: right;
+    margin: 35px;
+}
+.navbar-collapse {
+    font-size: 18px;
+}
+.masthead-container {
+    height: 400px;
+    background-image: url("/Users/kylecieskiewicz/Desktop/DevMountain/wideopen-icons/img/wot-masthead-dark.jpg");
+}
+.font-main {
+    height: 300px;
+    background-color: #f0f0f0;
+}
